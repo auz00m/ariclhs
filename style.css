@@ -71,4 +71,14 @@ button:hover {
   transform: scale(1.05);
 }
 
+#contact a {
+  color: #00aaff;
+  text-decoration: none;
+}
+
+#contact a:hover {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
 
